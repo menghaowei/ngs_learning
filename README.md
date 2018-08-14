@@ -29,7 +29,7 @@ https://www.bilibili.com/video/av11655592/
   #### 主要内容
   - R语言背景介绍（1:00 - 24:00)
 - R studio 代码演示RNA-Seq相关图的制作 （25:00 - 75:00)
-- - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - -
 
 ### 第2次Live上机录像：2017-08-04-高通量测序技术交流录像
 #### 网址
@@ -40,7 +40,7 @@ https://www.bilibili.com/video/av12969326/
 - 参考基因组的下载与bowtie2 index的建立 （24:45 - 41:00）
 - RNA-Seq的分析流程 （41:30 - 75:00）
 - PCA的原理与实现 （76:00 - end）
-
+- - - - - - - - - - - - - - - - - - - - - -
 
 ### 第3次Live上机录像：20170904-ChIP-Seq实验背景与数据分析
 #### 网址
@@ -53,7 +53,7 @@ https://www.bilibili.com/video/av14178191/
 - CLIP 技术（24:00 - 26:00）
 - 从ENCODE上下载数据 （26:40 - 33:00）
 - ChIP-Seq的标准分析流程 （34:00 - 100:00）
-
+- - - - - - - - - - - - - - - - - - - - - -
 
 ### 第4次Live上机录像：2017-10-09-UCSC Genome Browser 和 WashU Genome Browser
 #### 网址
@@ -67,7 +67,7 @@ https://www.bilibili.com/video/av15253446/
 - GTEx (60:00 - 66:00)
 - UCSC genome browser (66:00 - 86:00)
 - Wash U genome browser (87:00 - 110:00)
-
+- - - - - - - - - - - - - - - - - - - - - -
 
 ### 第5次Live上机录像（第1部分）：20171030-学习Python做生信-Python基础入门
 #### 网址
@@ -82,7 +82,7 @@ https://www.bilibili.com/video/av15887563/
 
 #### 课程PPT及第1部分作业要求及答案：
 - 链接:http://pan.baidu.com/s/1jHNphyu  密码:ybdu
-
+- - - - - - - - - - - - - - - - - - - - - -
 
 ### 第5次Live上机录像（第2部分）：20171030-教你用snakemake搭pipeline
 #### 网址
@@ -93,6 +93,7 @@ https://www.bilibili.com/video/av15908415/
 - 一个简单的snakemake流程(09:00-12:34)
 - 如何运行一个snakefile(12:34-17:51)
 - 把tophat2-cufflinks-cuffdiff写成一个snakemake流程(22:20-50:00)
+- - - - - - - - - - - - - - - - - - - - - -
 
 ### 第5次Live上机录像（第3部分）：20171106-学习Python做生信-实战练习
 #### 网址
@@ -103,43 +104,43 @@ https://www.bilibili.com/video/av16064125/
 - FASTA格式的读取（45:00 - 59:00）
 - 探索人类基因组的长度，N区域，GC含量等信息，提取基因组的序列（59:00 - 97:00）
 - 探索人类转录组的exon总长度（98:00 - 128:00）
-
+- - - - - - - - - - - - - - - - - - - - - -
 
 ### 视频番外1：20171026-基于BWT算法的比对软件原理解析（BWA & Bowtie & Bowtie2）
 #### 网址
 https://www.bilibili.com/video/av15743137/
+- - - - - - - - - - - - - - - - - - - - - -  
   
-  
-  ### 第6次Live上机录像（第1部分，共2部分）：2017-11-30-R语言入门与基础绘图系统 Part I
-  #### 网址
-  https://www.bilibili.com/video/av16817175/
-  #### 主要内容
-  - R 语言的入门 （8:00 - 40:00）
+### 第6次Live上机录像（第1部分，共2部分）：2017-11-30-R语言入门与基础绘图系统 Part I
+#### 网址
+https://www.bilibili.com/video/av16817175/
+#### 主要内容
+- R 语言的入门 （8:00 - 40:00）
 - R 语言基础绘图系统，绘制histgram和barplot （40:00 - 66:00）
 - R 语言绘制RNA-Seq两个样本FPKM的Scatter plot (67:00 - 77:00)
-
+- - - - - - - - - - - - - - - - - - - - - -
 
 第6次Live上机录像（第2部分，共2部分）：2017-12-03-R语言基础绘图详解heatmap与volcano plot
 #### 网址
 https://www.bilibili.com/video/av16922046/
-  #### 主要内容
-  - 手把手教你，用R语言绘制RNA-Seq中Cuffdiff结果的volcano plot（1:00 - 63:00）
+#### 主要内容
+- 手把手教你，用R语言绘制RNA-Seq中Cuffdiff结果的volcano plot（1:00 - 63:00）
 - 手把手教你，用R语言写一个画热图的函数并可视化Hi-C数据（63:00 - 127:00）
 - 手把手教你，从热图中选择感兴趣的区域（127:00 - 135:00）
-
+- - - - - - - - - - - - - - - - - - - - - -
 
 ### 视频番外2：2018-01-07 生物信息学教程-GO, KEGG, DO富集分析
 #### 网址
 http://www.bilibili.com/video/av18311108/
-  #### 主要内容
-  - RNA-Seq的分析概览 （4:40 - 9:30）
+#### 主要内容
+- RNA-Seq的分析概览 （4:40 - 9:30）
 - 什么是Gene Ontology（GO）,什么是GO富集分析 （10:00 - 26:00）
 - 使用R语言读取cuffdiff结果并选择差异表达基因 （28:00 - 40:00）
 - GO富集常用的网站工具，DAVID与EnrichR （40:00 - 50:00）
 - 安装调试做GO需要用的R包 （50:00 - 55:00）
 - 使用R语言对RNA-Seq的结果做GO，KEGG，DO富集分析 （55:00 - 80:00）
 - 对于有参非模式生物的注释文件的搜索与下载（80:00 - 90:00）
-
+- - - - - - - - - - - - - - - - - - - - - -
 
 ### 第7次Live上机录像：2018-02-05-转录组进阶分析
 #### 网址
@@ -151,7 +152,7 @@ https://www.bilibili.com/video/av19929350
 - FPKM/TPM是什么东西？怎么算？
 - Cuffdiff的原理
 - DESeq2的原理及代码分享
-
+- - - - - - - - - - - - - - - - - - - - - -
 
 ### 第8次Live上机录像：2018-05-R与Bioconductor的入门课
 #### 网址
@@ -167,3 +168,4 @@ https://www.bilibili.com/video/av24355734
 - 如何将不同版本的基因组坐标进行互相转换？
 - 如何将公共数据的ChIP-Seq peak信息与基因结构信息进行批量可视化？
 - 如何使用GEOquery获取发表数据信息？
+- - - - - - - - - - - - - - - - - - - - - -
