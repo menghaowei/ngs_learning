@@ -37,7 +37,7 @@
 
 ### 此部分由LZ老哥编写
 
-### 如何访问google
+### 如何访问google [此部分感谢丽姐的帮助！]
 目前google科学上网最常用的办法是修改本机的hosts，具体可以参考 https://laod.cn/hosts/2018-google-hosts.html
 
 另外，还可以使用一些现成的工具，具体请看这里 https://mp.weixin.qq.com/s/qOZIK_6-7EHcPi6aAJUKTg
