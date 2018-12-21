@@ -33,17 +33,18 @@
 
 4. 学习建议
 其实现在网上有很多资料，前期的原理入门都可以自己搞定，群里更多的是可以为你提供经验的帮助。比如，在不知道选A还是选B的时候帮助你做选择，而不是直接告诉这个题有2个选项，然后再告诉答案~ 
-## 活用Google [此部分由LZ老哥编写]
+## 活用Google 
+
+### 此部分由LZ老哥编写
 
 ### 如何访问google
 目前google科学上网最常用的办法是修改本机的hosts，具体可以参考 https://laod.cn/hosts/2018-google-hosts.html
 
+另外，还可以使用一些现成的工具，具体请看这里 https://mp.weixin.qq.com/s/qOZIK_6-7EHcPi6aAJUKTg
+
 ### 有问题 先google
 
 大家遇到的问题往往在google上已经有答案了，**先问问google再问人比较好**，这样自己能**提高检索能力，也学到姿势，还能让提问更有效率和价值**。
-
-关于如何科学的使用Google 请看这里
-https://mp.weixin.qq.com/s/qOZIK_6-7EHcPi6aAJUKTg
 
 下面是检索方法，都是经验，大家有值得分享的请继续补充！
 
